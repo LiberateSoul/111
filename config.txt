@@ -7,7 +7,7 @@
 # 模板消息id
 "template_id": "shtujn5qQuJaZdkR9o-cYgmJWsaqT4KQItPy5CgSGgo",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oDqKR6qaIxC-u1W9yxNO0U2g4Fbg","oDqKR6lrYUHdQpmda9jqIvRsY3yM"],
+"user": ["oDqKR6hL1Ru2tdH7amyRT3mY0r8o"],
 
 # 信息配置
 # 和风天气apikey
@@ -15,11 +15,11 @@
 # 天行数据apikey
 "tian_api": "9d4f8f4ae3c745aed870a9b5dbc72640",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
-"region": "武汉",
+"region": "萍乡",
 # 生日
-"birthday1": {"name": "ncx", "birthday": "2000-11-02"},
+"birthday1": {"name": "傻子兰", "birthday": "2005-12-23"},
 # 在一起的日子，格式同上
-"love_date": "2021-11-01",
+"love_date": "2020-07-01",
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
